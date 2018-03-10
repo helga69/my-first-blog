@@ -25,7 +25,7 @@ SECRET_KEY = '@c6uf7d0q&(77qge^=fcr0zw7=8_(7=4d_yvqm%=mw%%_94jq2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'drkmn.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'helga.pythonanywhere.com']
 
 
 # Application definition
